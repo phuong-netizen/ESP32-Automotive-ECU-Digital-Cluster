@@ -1,0 +1,6 @@
+.pio/
+build/
+.vscode/
+*.user
+*.before-*
+__pycache__/
